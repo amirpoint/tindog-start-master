@@ -24,7 +24,8 @@ p {
 }
 .title {
     background-color: #ff4c68;
-    padding: 3% 15%;
+    padding: 3% 15% 8% 15%;
+    
 
 }
 
@@ -47,13 +48,18 @@ p {
 .title-img {
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
+    right: 20%;
 }
 
 /* Features Section */
 .features {
-    margin-top: 5%;
-    padding: 7% 4%;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 5% 4% 7% 4%;
     text-align: center;
+    position: relative;
+    z-index: 1;
 }
 .features-logo {
     /* color: #ef8172; */
