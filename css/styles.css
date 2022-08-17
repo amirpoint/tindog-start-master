@@ -1,12 +1,12 @@
 body {
     font-family: 'Montserrat', 'sans-serif';
-    color: #ffffff;
 }
 h1 {
     font-family: 'Montserrat', 'sans-serif';
     font-size: 3.5rem;
     line-height: 1.2;
     font-weight: 900;
+    color: #ffffff;
 }
 .title {
     background-color: #ff4c68;
@@ -15,7 +15,6 @@ h1 {
 }
 
 /* Navigation Bar */
-
 .navbar {
     padding-bottom: 8%;
 }
@@ -34,4 +33,28 @@ h1 {
 .title-img {
     width: 60%;
     transform: rotate(25deg);
+}
+
+/* Features */
+.features {
+    margin-top: 5%;
+    padding: 7% 4%;
+    text-align: center;
+}
+.features-logo {
+    /* color: #ef8172; */
+    color: #dcdcdc;
+    transition: 200ms;
+    margin: 15% 0 4% 0;   
+}
+.features-logo:hover {
+    color: #ff4c68;
+}
+h3 {
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+p {
+    color: #8f8f8f;
 }
