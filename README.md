@@ -40,6 +40,9 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Bootstrap Navbar
+- Bootstrap Carousel
+- Bootstrap Card
 - [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
