@@ -73,10 +73,10 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 ### Tablet Design
 
 <html>
-    <center>
+    <div style="text-align: center;">
         <img src="design/tablet-design.png">
         ![](design/tablet-design.png)
-    </center>
+    </div>
 </html>
 
 ### Mobile Design
