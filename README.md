@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [amirpoint.github.io/tindog-start-master/](https://amirpoint.github.io/tindog-start-master/)
 
 ## My process
 
@@ -48,14 +48,13 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [resource I](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- [resource II](https://devdocs.io/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- London App Brewery - [Link](https://github.com/londonappbrewery)
+- Telegram - [@amirpoint](https://www.t.me/amirpoint)
 
 ## Acknowledgments
 
