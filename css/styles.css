@@ -126,3 +126,26 @@ p {
     font-size: 1.5rem;
     font-weight: 400;
 }
+
+/* CTA Section */
+.cta {
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 10%;
+}
+.cta-text {
+    color: #ffffff;
+    font-size: 250%;
+    font-weight: 900;
+}
+.footer {
+    text-align: center;
+    font-family: 'Montserrat','monospace';
+    font-weight: 200;
+    margin: 6%;
+
+}
+.footer-logo {
+    margin: 1% 1% 3%;
+
+}
