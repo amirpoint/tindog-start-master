@@ -74,7 +74,7 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 
 <html>
     <center>
-        <img href="design/tablet-design.png">
+        <img src="design/tablet-design.png">
         ![](design/tablet-design.png)
     </center>
 </html>
