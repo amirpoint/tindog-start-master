@@ -15,6 +15,7 @@ This is a solution to the TinDog page with curved sections challenge.
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+- [All Designs](#all-designs)
 
 ## Overview
 ### The challenge
@@ -26,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](design/desktop-design.png)
+![](design/title-section.png)
 
 ### Links
 
@@ -62,3 +63,19 @@ Use this section to recap over some of your major learnings while working throug
 ## Acknowledgments
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+
+## All Designs
+
+### Desktop Design
+
+![](design/desktop-design.png)
+
+### Tablet Design
+
+![](design/tablet-design.png)
+
+### Mobile Design
+
+![](design/mobile-design.png)
+
+
