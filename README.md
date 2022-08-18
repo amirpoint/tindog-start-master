@@ -66,21 +66,15 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 
 ## All Designs
 
-### Desktop Design
-
-![](design/desktop-design.png)
-
-### Tablet Design
-
-<html>
-    <div style="text-align: center;">
-        <img src="design/tablet-design.png">
-        ![](design/tablet-design.png)
-    </div>
-</html>
-
 ### Mobile Design
 
 ![](design/mobile-design.png)
 
+### Tablet Design
+
+![](design/tablet-design.png)
+
+### Desktop Design
+
+![](design/desktop-design.png)
 
