@@ -72,10 +72,12 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 
 ### Tablet Design
 
-<center>
-    <img href="design/tablet-design.png">
-    ![](design/tablet-design.png)
-</center>
+<html>
+    <center>
+        <img href="design/tablet-design.png">
+        ![](design/tablet-design.png)
+    </center>
+</html>
 
 ### Mobile Design
 
