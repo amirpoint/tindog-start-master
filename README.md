@@ -72,7 +72,9 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 
 ### Tablet Design
 
-![](design/tablet-design.png)
+<center>
+    ![](design/tablet-design.png)
+</center>
 
 ### Mobile Design
 
